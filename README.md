@@ -1,8 +1,10 @@
-#RMongo 3
+
+# RMongo 3
 
 A fork of RMongo by @tommychheng that lets you connect to Mongo 3.x
 
-###Quickstart
+## Quickstart
+
 Validate:
 
 `cd ..`
@@ -15,5 +17,6 @@ Build:
 Install:
 `R CMD install RMongo*.tar.gz`
 
-###License
+## License
+
 GPL 3
